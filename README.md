@@ -1,0 +1,2 @@
+# helloworld
+这是一个比HelloWorld简单一丢丢的猜数小游戏
