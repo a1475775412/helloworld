@@ -7,7 +7,7 @@
 main.exe
 
 ```
-![release](https://01.cdn.mcxhz.cn/release/game/)
+[release](https://01.cdn.mcxhz.cn/release/game/)
 java
 `jdk 1.8.x`
 ```
