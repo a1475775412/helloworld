@@ -7,3 +7,11 @@
 main.exe
 
 ```
+!(release)[]
+java
+`jdk 1.8.x`
+```
+javac -encoding utf-8 testgame.java
+java testgame
+
+```
