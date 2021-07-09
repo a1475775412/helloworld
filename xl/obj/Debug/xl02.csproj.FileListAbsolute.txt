@@ -1,0 +1,7 @@
+C:\Users\a1475\source\repos\hanca\xl\obj\Debug\xl02.csproj.AssemblyReference.cache
+C:\Users\a1475\source\repos\hanca\xl\obj\Debug\xl02.csproj.CoreCompileInputs.cache
+C:\Users\a1475\source\repos\hanca\xl\bin\Debug\xl.exe.config
+C:\Users\a1475\source\repos\hanca\xl\bin\Debug\xl.exe
+C:\Users\a1475\source\repos\hanca\xl\bin\Debug\xl.pdb
+C:\Users\a1475\source\repos\hanca\xl\obj\Debug\xl.exe
+C:\Users\a1475\source\repos\hanca\xl\obj\Debug\xl.pdb

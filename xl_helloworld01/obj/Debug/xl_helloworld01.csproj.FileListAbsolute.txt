@@ -1,0 +1,7 @@
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\bin\Debug\xl_helloworld01.exe.config
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\bin\Debug\xl_helloworld01.exe
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\bin\Debug\xl_helloworld01.pdb
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\obj\Debug\xl_helloworld01.csproj.AssemblyReference.cache
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\obj\Debug\xl_helloworld01.csproj.CoreCompileInputs.cache
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\obj\Debug\xl_helloworld01.exe
+C:\Users\a1475\source\repos\hanca\xl_helloworld01\obj\Debug\xl_helloworld01.pdb
